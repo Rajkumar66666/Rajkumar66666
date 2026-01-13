@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Athishkumaran R M</h1>
+<h1 align="center">Hi 👋, I'm Rajkumar</h1>
 <h3 align="center">🚀 Java Full Stack Developer (Fresher)</h3>
 
 <p align="center">
