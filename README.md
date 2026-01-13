@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAJKUMAR</h1>
-<h3 align="center">🚀 Data Analyst(Fresher)</h3>
+<h3 align="center">🚀 Data Analyst (Fresher)</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+JWT+%7C+REST+APIs;Backend+%26+Frontend+Developer;Actively+Looking+for+Fresher+Opportunities" />
